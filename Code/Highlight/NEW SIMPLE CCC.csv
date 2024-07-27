@@ -1,0 +1,24 @@
+x,y,state,turn,Blue Points,Red Points
+8,8,state,turn,0,0
+7,7,O,Blue,0,0
+7,2,S,Red,0,0
+0,0,S,Blue,0,0
+7,5,O,Red,0,0
+1,2,S,Blue,0,0
+2,0,O,Red,0,0
+6,5,S,Blue,0,0
+1,6,O,Red,0,0
+4,0,S,Blue,0,0
+5,6,S,Red,0,0
+4,3,O,Blue,0,0
+4,4,O,Red,0,0
+0,2,O,Blue,0,0
+7,6,O,Red,0,0
+1,7,O,Blue,0,0
+5,3,O,Red,0,0
+2,4,O,Blue,0,0
+6,7,O,Red,0,0
+3,7,O,Blue,0,0
+3,4,O,Red,0,0
+5,5,S,Blue,0,0
+3,3,S,Red,0,0
